@@ -1,0 +1,18 @@
+.center{
+    display: flex;
+    margin:  50px auto;
+    width: 20%;
+}
+.btn{
+    display: flex;
+    margin:  50px auto;  
+    background-color:rgb(252 249 9);
+    color: rgb(18, 14, 14);
+    padding: 5px 40px;
+    font-size: 1.5rem;
+    font-family: sans-serif;
+    text-transform: capitalize;
+    border-radius: 20px;
+    border: 2px solid #ef0640f2;
+    /* font-size: 2rem; */
+}
